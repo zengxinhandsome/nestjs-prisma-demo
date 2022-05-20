@@ -9,6 +9,6 @@ services:
       POSTGRES_PASSWORD: 123
       POSTGRES_DB: nest
     networks:
-      - freecodecamp
+      - test
 networks:
-  freecodecamp:
+  test:
